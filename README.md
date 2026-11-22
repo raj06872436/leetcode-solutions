@@ -1,3 +1,5 @@
+<p align="center"><a href="https://github.com/raj06872436"><img src=".github/cover.svg" width="100%" alt="LeetCode Solutions" /></a></p>
+
 # LeetCode Solutions
 
 My accepted LeetCode solutions in C++, one folder per problem with the problem statement and my code.
